@@ -1,0 +1,8 @@
+com.datamirror.ts.api
+com.datamirror.ts.derivedexpressionmanager
+com.datamirror.ts.target.publication.userexit
+com.datamirror.ts.target.publication.userexit.cdr
+com.datamirror.ts.target.publication.userexit.datastage
+com.datamirror.ts.target.publication.userexit.kafka
+com.datamirror.ts.target.publication.userexit.sample
+com.datamirror.ts.target.publication.userexit.sample.kafka
